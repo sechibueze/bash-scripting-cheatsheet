@@ -2,6 +2,9 @@
 
 > Authored by: [Samuel Chibueze](https://sechibueze.github.io)
 
+## Outline
+
+- Introduction
 - Shebang line
 - Comments
 - Variables
